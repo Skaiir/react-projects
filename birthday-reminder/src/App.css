@@ -12,8 +12,11 @@ body {
   min-height: 100vh;
 }
 
-.btn {
+button {
   all: unset;
+}
+
+.btn {
   background: rgb(140, 202, 238);
   width: 100%;
   margin: 30px 0 0 0;
