@@ -19,13 +19,13 @@ body {
 }
 
 .reviewControl {
-  margin: auto;
-  max-width: 90vw;
+  max-width: 80vw;
   background: white;
   border-radius: 5px;
   box-shadow: 0 0 5px rgba(105, 90, 205, 0.13);
   padding: 30px;
-  margin: 100px;
+  margin: 100px auto;
+  width: 600px;
   display: flex;
   flex-direction: column;
 }
