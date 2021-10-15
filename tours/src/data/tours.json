@@ -1,0 +1,37 @@
+[
+  {
+    "title": "A week with the Eiffel tower (we won't tell)",
+    "price": "69.69 francs",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae, molestias velit voluptatibus mollitia explicabo voluptate natus fugiat quod. Saepe nobis nisi quisquam eligendi, velit modi dolor odio perspiciatis quas illo.",
+    "imgUrl": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?cs=srgb&dl=pexels-thorsten-technoman-338515.jpg&fm=jpg",
+    "imgAlt": "Eiffel tower and flowers"
+  },
+  {
+    "title": "Spend your Christmas nice and warm in the 7th circle of hell",
+    "price": "666$",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae, molestias velit voluptatibus mollitia explicabo voluptate natus fugiat quod. Saepe nobis nisi quisquam eligendi, velit modi dolor odio perspiciatis quas illo.",
+    "imgUrl": "https://images.pexels.com/photos/372470/pexels-photo-372470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imgAlt": "Big Ben with an underground station"
+  },
+  {
+    "title": "Lose yourself in the music, the moment...",
+    "price": "5 m&m's",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae, molestias velit voluptatibus mollitia explicabo voluptate natus fugiat quod. Saepe nobis nisi quisquam eligendi, velit modi dolor odio perspiciatis quas illo.",
+    "imgUrl": "https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imgAlt": "Space"
+  },
+  {
+    "title": "Experience the sights of glorious North Korea",
+    "price": "no money",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae, molestias velit voluptatibus mollitia explicabo voluptate natus fugiat quod. Saepe nobis nisi quisquam eligendi, velit modi dolor odio perspiciatis quas illo.",
+    "imgUrl": "https://images.pexels.com/photos/7362523/pexels-photo-7362523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imgAlt": "North Korean flag"
+  },
+  {
+    "title": "Some childish joke I'll hopefully change before I present this on my portfolio",
+    "price": "a decent job if I forget",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae, molestias velit voluptatibus mollitia explicabo voluptate natus fugiat quod. Saepe nobis nisi quisquam eligendi, velit modi dolor odio perspiciatis quas illo.",
+    "imgUrl": "https://images.pexels.com/photos/5745014/pexels-photo-5745014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imgAlt": "Water is Sink"
+  }
+]
