@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+hr {
+  width: 100px;
+  height: 3px;
+  background: slateblue;
+  border-width: 0;
+  margin: 10px auto;
+}
+
+body {
+  background: aliceblue;
+}
+
+.reviewControl {
+  margin: auto;
+  max-width: 90vw;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(105, 90, 205, 0.13);
+  padding: 30px;
+  margin: 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+.reviewControl > h4 {
+  text-transform: capitalize;
+}
+
+.reviewControl > h5 {
+  text-transform: uppercase;
+  font-weight: 200;
+  color: slateblue;
+}
+
+.reviewControl > p {
+  color: rgb(69, 67, 71);
+  font-weight: 200;
+  font-size: 12pt;
+  min-height: 100px;
+  margin-top: 10px;
+}
+
+.quotePic {
+  display: inline;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+.quotePic > img {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  object-position: 50% 35%;
+  border-radius: 50%;
+  box-shadow: 6px -4px slateblue;
+}
+
+.quotePic > div {
+  position: absolute;
+  display: inline-block;
+  background: slateblue;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  color: aliceblue;
+  font-size: 4rem;
+  user-select: none;
+}
+
+.btns > button {
+  all: unset;
+}
+
+.btns > button {
+  padding: 0 25px;
+  margin: 0 5px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-radius: 4px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  background: slateblue;
+  color: white;
+  transition-timing-function: ease-in;
+  transition: all 0.1s;
+  user-select: none;
+}
+
+.btns > button:hover {
+  border-color: slateblue;
+  background: white;
+  color: slateblue;
+}
